@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "title": "Homo Hergastere",
+    "artist": "Bernard Nguneo",
+    "year": 1503,
+    "description": "Portrait de Lisa Gherardini, épouse de Francesco del Giocondo, réalisé par Léonard de Vinci entre 1503 et 1519.",
+    "image": "https://images.unsplash.com/photo-1541961017774-22349e4a1262?auto=format&fit=crop&w=800&q=80",
+    "category": "Peinture",
+    "room": "Salle Renaissance",
+    "audioGuide": "https://example.com/audio/joconde.mp3",
+    "qrCode": "QR001",
+    "price": 15,
+    "isAvailable": true
+  },
+  {
+    "id": 2,
+    "title": "Sahelanthropus Tchadensis (TOUMAÏ)",
+    "artist": "Michel Brunet",
+    "year": 2001,
+    "description": "Tableau représentant la vue depuis la chambre de l'artiste à l'asile de Saint-Paul-de-Mausole.",
+    "image": "https://images.unsplash.com/photo-1541961017774-22349e4a1262?auto=format&fit=crop&w=800&q=80",
+    "category": "Peinture",
+    "room": "Salle Impressionnisme",
+    "audioGuide": "https://example.com/audio/nuit-etoilee.mp3",
+    "qrCode": "QR002",
+    "price": 12,
+    "isAvailable": true
+  }
+]
